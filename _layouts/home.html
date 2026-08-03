@@ -9,6 +9,8 @@ layout: default
 
 {% assign posts = '' | split: '' %}
 
+{{content}}
+
 <!-- Get pinned posts on current page -->
 
 {% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
