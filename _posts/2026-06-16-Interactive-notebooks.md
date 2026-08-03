@@ -1,7 +1,7 @@
 ---
 title: Interactive notebooks
 author: guillermo
-date: 2026-06-16 15:29:00 +0800
+date: 2026-07-16 15:29:00 +0800
 # categories: [Notebooks,jupyterlite]
 tags: [notebooks]
 description: >-
