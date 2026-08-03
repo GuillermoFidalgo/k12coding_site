@@ -17,7 +17,7 @@ We will be using JupyterLite to access and run the education notebooks found in 
 
 # Jupyter Lite
 - <https://guillermofidalgo.github.io/coding-camp>
-- {{ site.url }} TODO
+- {{ site.url }} # TODO
 # Notebook repo
 - <https://github.com/QuarkNet-HEP/coding-camp>
 
